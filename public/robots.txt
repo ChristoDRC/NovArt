@@ -1,0 +1,7 @@
+# Permitir a todos los robots rastrear el sitio
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://retroshop.vercel.app/sitemap.xml
+
